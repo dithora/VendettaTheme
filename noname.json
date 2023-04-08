@@ -34,7 +34,7 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#9984AB"
         ],
         "BACKGROUND_SECONDARY": [
             "#15100d"
@@ -43,7 +43,7 @@
             "#15100d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#9984AB"
         ],
         "BACKGROUND_ACCENT": [
             "#503E38"
@@ -101,7 +101,7 @@
             "#503E38"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#9984AB"
         ],
         "CHANNEL_ICON": [
             "#EFDFD7"
@@ -120,8 +120,8 @@
         "PRIMARY_600": "#100D0A",
         "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
+        "PRIMARY_700": "#9984AB",
+        "PRIMARY_800": "#9984AB",
         "BRAND_260": "#957261",
         "BRAND_360": "#D0A996",
         "BRAND_500": "#957261",
