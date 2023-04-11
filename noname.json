@@ -9,128 +9,128 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#9A9393"
+            "#"
         ],
         "HEADER_SECONDARY": [
-            "#9A9393"
+            "#"
         ],
         "TEXT_NORMAL": [
-            "#E7D6CE"
+            "#"
         ],
         "TEXT_MUTED": [
-            "#413434"
+            "#"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9A9393"
+            "#"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#9A9393"
+            "#"
         ],
         "INTERACTIVE_MUTED": [
-            "#413434"
+            "#"
         ],
         "BACKGROUND_PRIMARY": [
-            "#7C7575"
+            "#"
         ],
         "BACKGROUND_SECONDARY": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_TERTIARY": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
+            "#"
         ],
         "BACKGROUND_FLOATING": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#231F1F"
+            "#"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#231F1F"
+            "#"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#372d2b"
+            "#"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
+            ""
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#"
         ],
         "CHANNELS_DEFAULT": [
-            "#5C5757"
+            "#"
         ],
         "TEXT_LINK": [
-            "#5C5757"
+            "#"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#"
         ],
         "KEYBOARD": [
-            "#7C7575"
+            "#"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#"
         ],
         "CHAT_BACKGROUND": [
-            "#7C7575"
+            "#"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#5C5757",
-        "PRIMARY_100": "#EFDFD7",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#5C5757",
-        "PRIMARY_360": "#5C5757",
-        "PRIMARY_400": "#5C5757",
-        "PRIMARY_600": "#7C7575",
-        "PRIMARY_630": "#231F1F",
-        "PRIMARY_660": "#231F1F",
-        "PRIMARY_700": "#7C7575",
-        "PRIMARY_800": "#7C7575",
-        "BRAND_260": "#413434",
-        "BRAND_360": "#A79A9A",
-        "BRAND_500": "#413434",
-        "BRAND_560": "#A79A9A",
-        "YELLOW_300": "#413434",
-        "GREEN_600": "#9A9393",
-        "DANGER": "#8F4D4D",
-        "RED_400": "#5C5757",
-        "WHITE_500": "#9A9393",
-        "GREEN_360": "#503E38"
+        "PRIMARY_500": "#",
+        "PRIMARY_100": "#",
+        "PRIMARY_200": "#",
+        "PRIMARY_300": "#",
+        "PRIMARY_360": "#",
+        "PRIMARY_400": "#",
+        "PRIMARY_600": "#",
+        "PRIMARY_630": "#",
+        "PRIMARY_660": "#",
+        "PRIMARY_700": "#",
+        "PRIMARY_800": "#",
+        "BRAND_260": "#",
+        "BRAND_360": "#",
+        "BRAND_500": "#",
+        "BRAND_560": "#",
+        "YELLOW_300": "#",
+        "GREEN_600": "#",
+        "DANGER": "#",
+        "RED_400": "#",
+        "WHITE_500": "#",
+        "GREEN_360": "#"
     },
     "spec": 2
 }
